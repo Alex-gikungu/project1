@@ -3,11 +3,17 @@
  Created by Alex Gikungu 
  # Table of content
  .Description
+
  .Technology 
+
  .project set up instruction
+
  .live link
+
  .Authors information
+
  .license
+
  # Description
  this is a website that show my personal portfolio website.
  it also contains my experience gained in web development and also a sample of a website which i have created .
@@ -22,6 +28,7 @@
   - https://alex-gikungu.github.io/project1/
  # Authotrs information
  slack Profile-Alex-gikungu
+  email:alexigikungu.012@gmail.com
    # license 
    The MIT license (MIT)
     
