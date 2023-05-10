@@ -16,13 +16,8 @@
  HTML- used to create the website 
  CSS- used for styling and making the website more attractive by adding fonts 
  # project set up instruction
-    1.choose a code editor: the editor used is a visual code editor 
-    2. create a new folder of the project
-    3.create a html and css files  using the vs code 
-    4. link the css file with the html file
-    5.add style in the css file to style your website 
-    6.run your website in a browser
-    
+   Run 'git clone https://github.com/Alex-gikungu/project1.git'
+    After cloning,open the project vs and modify it to your link.
  ## live link 
   - https://alex-gikungu.github.io/project1/
  # Authotrs information
