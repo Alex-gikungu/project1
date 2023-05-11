@@ -21,6 +21,7 @@
     position: sticky;
 }
 .navbar ul{
+    /**--looks good--**/
     display: flex;
     list-style: none;
     margin:20px opx;
